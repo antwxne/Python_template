@@ -4,5 +4,5 @@
 
 ``` shell
 docker-compose build
-docker-compose run
+docker-compose up
 ```
